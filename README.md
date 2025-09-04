@@ -18,16 +18,18 @@ Automator - custom Quick Actions
 
 [Dozer](https://github.com/Mortennn/Dozer) - Hide menu bar icons on macOS
 
-dupeguru
+[dupeguru](https://github.com/rybycy/awesome/blob/main/README.md) - finds duplicate files
 
-Clipy - clipboard history
+[Clipy](https://github.com/Clipy/Clipy) - clipboard history with snippets
 
 ## Terminal
 ZSH
 
-zsh-autosuggestions
+[oh my zsh](https://ohmyz.sh/)
 
-powerlevel10k
+[zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions?tab=readme-ov-file)
+
+[powerlevel10k](https://github.com/romkatv/powerlevel10k) - theme
 
 vim
 
